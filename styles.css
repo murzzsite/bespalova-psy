@@ -146,18 +146,11 @@ ul { list-style: none; }
   position: relative;
   overflow: hidden;
 }
-.hero__card-avatar {
+.hero__card-photo {
   width: 100%;
-  aspect-ratio: 3 / 2;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(135deg, var(--accent), var(--accent-dark));
-  color: #fff;
-  font-family: var(--font-head);
-  font-weight: 700;
-  font-size: 64px;
-  letter-spacing: 0.04em;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: top center;
 }
 .hero__card-body { padding: 28px 32px 32px; }
 .hero__card-badge {
@@ -197,19 +190,12 @@ ul { list-style: none; }
 /* ABOUT */
 .about { padding: 70px 0; background: var(--bg-alt); }
 .about__intro { display: flex; gap: 40px; align-items: center; margin-bottom: 48px; }
-.about__avatar {
-  width: 180px;
-  height: 180px;
+.about__photo {
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
+  object-fit: cover;
   flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(135deg, var(--accent), var(--accent-dark));
-  color: #fff;
-  font-family: var(--font-head);
-  font-weight: 700;
-  font-size: 52px;
   box-shadow: var(--shadow);
   border: 4px solid var(--surface);
 }
