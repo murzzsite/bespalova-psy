@@ -1,0 +1,38 @@
+{
+  "siteName": "Марианна Беспалова",
+  "siteUrl": "https://bespalovamarianna.ru",
+  "lang": "ru",
+  "repo": "murzzsite/bespalova-psy",
+  "ref": "CA2URY7RRV",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи психолога по отношениям Марианны Беспаловой: почему отношения не складываются, как слышать партнёра и говорить «нет».",
+  "homeTitle": "Статьи об отношениях",
+  "author": {
+    "name": "Марианна Беспалова",
+    "jobTitle": "Психолог по отношениям",
+    "type": "Person"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку или напишите в Telegram — коротко расскажете о своей ситуации, и мы подберём формат работы.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер и не заменяет консультацию психолога, психотерапевта или врача. Если вам тяжело, обратитесь к специалисту очно или онлайн.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "28d4e4a23c662beea6dc822cb11f578c",
+  "previewSecret": "48f98278ef84c371",
+  "theme": {
+    "accent": "var(--accent)",
+    "bg": "var(--bg)",
+    "surface": "var(--surface)",
+    "ink": "var(--ink)",
+    "soft": "var(--ink-soft)",
+    "line": "var(--border)",
+    "accent-soft": "color-mix(in srgb, var(--accent) 10%, #ffffff)"
+  }
+}
