@@ -1,32 +1,25 @@
 {
   "site": "https://bespalovamarianna.ru",
   "updated": "2026-11-18",
-  "awaiting": [
-    {
-      "slug": "konsultaciya-psihologa-po-otnosheniyam",
-      "path": "articles/konsultaciya-psihologa-po-otnosheniyam.md",
-      "title": "Консультация психолога по отношениям: как проходит сессия и сколько стоит",
-      "description": "Как проходит консультация психолога по отношениям: с чем приходят, как устроена сессия онлайн и очно, сколько стоит и как подготовиться к первой встрече.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://bespalovamarianna.ru/blog/preview/c4fb303c7f28/konsultaciya-psihologa-po-otnosheniyam/"
-    },
+  "awaiting": [],
+  "scheduled": [
     {
       "slug": "partner-ne-slyshit-i-otdalyaetsya",
-      "path": "articles/partner-ne-slyshit-i-otdalyaetsya.md",
       "title": "Партнёр не слышит и отдаляется: что делать, если вас игнорируют",
-      "description": "Партнёр игнорирует, не слышит или не берёт ответственность? Разбираем, что стоит за этим, что можно сделать самой и когда пора обратиться к психологу.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://bespalovamarianna.ru/blog/preview/769cf77b67c0/partner-ne-slyshit-i-otdalyaetsya/"
+      "date": "2026-11-25"
     },
     {
       "slug": "svidaniya-ne-perehodyat-v-otnosheniya",
-      "path": "articles/svidaniya-ne-perehodyat-v-otnosheniya.md",
       "title": "Почему свидания не переходят в отношения: семь причин и что с этим делать",
-      "description": "Почему свидания не переходят в отношения и что с этим делать: разбор частых причин, чек-лист самопроверки и шаги, которые помогают сменить сценарий.",
-      "reading_time": "10 мин чтения",
-      "preview_url": "https://bespalovamarianna.ru/blog/preview/d7ee461bfef5/svidaniya-ne-perehodyat-v-otnosheniya/"
+      "date": "2026-12-02"
     }
   ],
-  "scheduled": [],
-  "published": []
+  "published": [
+    {
+      "slug": "konsultaciya-psihologa-po-otnosheniyam",
+      "title": "Консультация психолога по отношениям: как проходит сессия и сколько стоит",
+      "url": "https://bespalovamarianna.ru/blog/konsultaciya-psihologa-po-otnosheniyam/",
+      "date": "2026-11-18"
+    }
+  ]
 }
