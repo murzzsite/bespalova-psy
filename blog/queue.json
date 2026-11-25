@@ -1,13 +1,8 @@
 {
   "site": "https://bespalovamarianna.ru",
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "awaiting": [],
   "scheduled": [
-    {
-      "slug": "partner-ne-slyshit-i-otdalyaetsya",
-      "title": "Партнёр не слышит и отдаляется: что делать, если вас игнорируют",
-      "date": "2026-11-25"
-    },
     {
       "slug": "svidaniya-ne-perehodyat-v-otnosheniya",
       "title": "Почему свидания не переходят в отношения: семь причин и что с этим делать",
@@ -15,6 +10,12 @@
     }
   ],
   "published": [
+    {
+      "slug": "partner-ne-slyshit-i-otdalyaetsya",
+      "title": "Партнёр не слышит и отдаляется: что делать, если вас игнорируют",
+      "url": "https://bespalovamarianna.ru/blog/partner-ne-slyshit-i-otdalyaetsya/",
+      "date": "2026-11-25"
+    },
     {
       "slug": "konsultaciya-psihologa-po-otnosheniyam",
       "title": "Консультация психолога по отношениям: как проходит сессия и сколько стоит",
